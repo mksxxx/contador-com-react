@@ -1,8 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Contador de numero com react 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esse proejeto tem como fins educacionais para pratica do meu estudo com a tecnologia
+
+
+
+
+
+# Pré-requisitos
+
+Para rodar este projeto, é necessário ter o Node.sinstalado na sua máquina.
+
+
+-[Node.js](https://nodejs.org/) 
+
+
+
+## Stack utilizada
+
+**Front-end:** React
+
+**Back-end:** Node
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
